@@ -10,3 +10,4 @@ Test
 Enhancements
 - configuration file to store environment variables, and  mount secerts for encironment variables
 - Write declarative code.
+- keep linear git history
