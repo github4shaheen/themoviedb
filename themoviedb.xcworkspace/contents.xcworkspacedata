@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:unit_tests.xctestplan">
+   </FileRef>
+   <FileRef
+      location = "group:ui_tests.xctestplan">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/MovieDetails">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/UIModels">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/UIKitExtensions">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/UIErrorView">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/TMDBRepo">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/TMDBSchemeModels">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/Trending">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/Cache">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/ImageLoader">
+   </FileRef>
+   <FileRef
+      location = "group:Libs/CoreNetwork">
+   </FileRef>
+   <FileRef
+      location = "group:themoviedb/themoviedb.xcodeproj">
+   </FileRef>
+</Workspace>

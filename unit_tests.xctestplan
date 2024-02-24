@@ -1,0 +1,95 @@
+{
+  "configurations" : [
+    {
+      "id" : "D69746AC-D2B7-47B6-A0CA-F62906A6B756",
+      "name" : "unit_tests",
+      "options" : {
+        "language" : "en",
+        "uiTestingScreenshotsLifetime" : "keepNever"
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:themoviedb.xcodeproj",
+        "identifier" : "7A428EC12B8765D20084A923",
+        "name" : "themoviedbTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/Cache",
+        "identifier" : "CacheTests",
+        "name" : "CacheTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/CoreNetwork",
+        "identifier" : "CoreNetworkTests",
+        "name" : "CoreNetworkTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/ImageLoader",
+        "identifier" : "ImageLoaderTests",
+        "name" : "ImageLoaderTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/MovieDetails",
+        "identifier" : "MovieDetailsTests",
+        "name" : "MovieDetailsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/TMDBRepo",
+        "identifier" : "TMDBRepoTests",
+        "name" : "TMDBRepoTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/TMDBSchemeModels",
+        "identifier" : "TMDBSchemeModelsTests",
+        "name" : "TMDBSchemeModelsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/Trending",
+        "identifier" : "TrendingTests",
+        "name" : "TrendingTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/UIErrorView",
+        "identifier" : "UIErrorViewTests",
+        "name" : "UIErrorViewTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/UIKitExtensions",
+        "identifier" : "UIKitExtensionsTests",
+        "name" : "UIKitExtensionsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Libs\/UIModels",
+        "identifier" : "UIModelsTests",
+        "name" : "UIModelsTests"
+      }
+    }
+  ],
+  "version" : 1
+}

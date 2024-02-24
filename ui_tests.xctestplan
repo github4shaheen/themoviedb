@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "D69746AC-D2B7-47B6-A0CA-F62906A6B756",
+      "name" : "ui_tests",
+      "options" : {
+        "language" : "en"
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:themoviedb.xcodeproj",
+        "identifier" : "7A428ECB2B8765D20084A923",
+        "name" : "themoviedbUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
